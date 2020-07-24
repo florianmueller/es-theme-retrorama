@@ -1,4 +1,4 @@
-# es-theme-retrorama
+# es-theme-retrorama-4-3 - the 4:3 version
 ´´´´´´´´´´´´´´´´
 # In loving memory of Stan Lee. A true inspiration and without his legacy, this theme won't be so nostalgic. Rest in peace...
 
