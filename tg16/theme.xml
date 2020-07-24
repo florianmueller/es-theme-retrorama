@@ -4,7 +4,7 @@
 
 <view name="system">
  <image name="background_color" extra="true">
-  <path>./SLBG.jpg</path>
+  <path>./SLBG_4-3.jpg</path>
   <origin>0 0</origin>
   <pos>0 0</pos>
   <size>1 1</size>
@@ -19,7 +19,7 @@
 
 <view name="basic, detailed, grid, video">
  <image name="background_color" extra="true">
-  <path>./GMBG.jpg</path>
+  <path>./GMBG_4-3.jpg</path>
   <origin>0 0</origin>
   <pos>0 0</pos>
   <size>1 1</size>
